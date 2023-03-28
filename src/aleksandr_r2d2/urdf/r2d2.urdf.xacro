@@ -264,9 +264,9 @@
   </link>
   
   <joint name="base_footprint" type="fixed">
-    <parent link="base_link"/>
-    <child link="base_footprint"/>
-    <origin xyz="0 0 -0.47" rpy="0 0 0"/>
+    <parent link="base_footprint"/>
+    <child link="base_link"/>
+    <origin xyz="0 0 0.47" rpy="0 0 0"/>
   </joint>
 
 </robot>

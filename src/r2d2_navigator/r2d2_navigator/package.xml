@@ -4,6 +4,7 @@
   <version>0.0.0</version>
   <description>The r2d2_navigator package is fake controller for R2D2 robot model</description>
 
+<maintainer email="junygu@ttu.ee">claude</maintainer>
 
   <license>3-clause BSD</license>
 
